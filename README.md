@@ -18,6 +18,12 @@
 <p>Python 2.79 <b>sudo apt-get install python2.7</b></p>
 <p>relativedelta <b>sudo pip install python-dateutil --upgrade</b></p>
 <p>Steam API Key <b> Obtain one <a href="http://steamcommunity.com/dev/apikey">here</a></b></p>
+<p>The next few items are optional but were used in displaying the output on the site</p>
+<p>optional - <a href="http://getbootstrap.com/">bootstrap</a></p>
+<p> optional - <a href="http://jquery.com/download/">jquery 1.9x +</a></p>
+<p> optional - php <b>sudo apt-get install php5</b></p>
+<p> optional - <a href="http://fortawesome.github.io/Font-Awesome/">font awesome</a></p>
+<p>optional - derp.js (used for tooltips)</p>
 <hr>
 <h2><b>Examples</h2></b>
 <p>To see an example of this script head over to my site</p>
