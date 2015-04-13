@@ -19,6 +19,7 @@ It fetches the following information from the Steam Web API:<br>
 <b><h2>Requirements</h2></b>
 <p>Python 2.79 <b>sudo apt-get install python2.7</b></p>
 <p>relativedelta <b>sudo pip install python-dateutil --upgrade</b></p>
+<p>Steam API Key <b> Obtain one <a href="http://steamcommunity.com/dev/apikey">here</a></b></p>
 <hr>
 <h2><b>Examples</h2></b>
 <p>To see an example of this script head over to my site</p>
